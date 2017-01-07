@@ -1,0 +1,40 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	outline: none;
+}
+#wr {
+	width:100%;
+	margin: 0px auto;
+	text-align: right;
+}
+.trigger,.trigger a {
+	display: block;
+	width: 350px;
+	height: 26px;
+	text-indent: -999999em;
+	overflow: hidden;
+}
+.titulini {
+	display: block;
+	text-align: left;
+}
+.trigger {
+	background: url(../Images/btn.png) no-repeat 0px 0px;
+}
+.close {
+	background: url(../Images/btn.png) no-repeat 0px -26px;
+}
+.cnt {
+	display: none;
+	padding: 0px;
+	margin: 0px;
+	background: #f9f9f9;
+	z-index: 99999;
+}
+.cl {
+	width: 100%;
+	clear: both;
+	line-height: 0px;
+	font-size: 0px;
+}

@@ -1,0 +1,9 @@
+/* Tiny Carousel */
+#slider2 { height: 0%; overflow:hidden; position: relative; padding: 0 0 0px;   }
+#slider2 .viewport { float: left; width: 85%; height: 50px; overflow: hidden; position: relative; }
+#slider2 .buttons { background:url("../images/buttons.png") no-repeat scroll 0 0 transparent; display: block; margin: 14px 10px 0 0; background-position: 0 -26px; text-indent: -999em; float: left; width: 28px; height: 26px; overflow: hidden; position: relative; }
+#slider2 .next { background-position: 0 0; margin: 14px 0 0 10px; }
+#slider2 .disable { visibility: hidden; }
+#slider2 .overview { list-style: none; position: absolute; width: 150px; left: 0 top: 0; }
+#slider2 .overview li{ float: left; margin: 0 0px 0 0; padding: 0px; height: 46px; border: 0px solid #dcdcdc; width: 146px;}
+
